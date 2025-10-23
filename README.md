@@ -1,10 +1,14 @@
 # Elevate_Labs
-Internship task 2 completed.
+Internship task 3 completed.
 
-Task 2: Launch a Virtual Machine (VM) Instance.
+Task 3: Create and Configure a Virtual Private Cloud (VPC) with Subnets
 
-Objective: To understand *how cloud virtual machines work* by creating, configuring, and connecting to a *cloud-based server instance* using a free-tier account.
-This task introduces interns to *Infrastructure-as-a-Service (IaaS)* — the foundation of all cloud operations.
+Objective:
+To learn how cloud networking works by creating a Virtual Private Cloud (VPC) with public and private subnets, and enabling controlled internet access.
+This task teaches the backbone of secure cloud architecture and how resources are isolated and protected in the cloud.
 
-OS : Ubuntu 22.04 LTS (lightweight and stable).
-Machine type : e2-micro
+Outcome:
+Understand cloud network segmentation.
+Learn how public and private resources are separated.
+Gain knowledge of internet gateways, route tables, and CIDR blocks.
+Be ready for tasks involving secure deployments and hybrid networking.
